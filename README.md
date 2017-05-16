@@ -6,4 +6,12 @@ News for our gmod server
 
 - I ask everyone to vote on here. Look at Suggestions on Discord for more info: https://goo.gl/forms/EyIc7NHsnTffRCnC3
 
+05/16/2017:
+6:00PM
+There will be a mini update tonight
+
+This will include:
+- Nerf to the Vector
+- Possible buff to the AR-15
+- Slight HP nerf to the rolling mine
 Click "View" on the top right to see the raw data so you see purely text.
