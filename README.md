@@ -16,10 +16,25 @@ This will include:
 - Slight HP nerf to the rolling mine
 
 05/17/2017:
+
 Weapons:
 - Slightlty nerfed the Vector Damage
 - Slighty increased the recoil on the Vector
 
 Donators:
 - Added a Kermit player model [The hitboxes are normal, however the head is bigger than them, if this is problematic let me know]
+
+
+
+5/19/2017:
+
+Donators:
+- Added Tim Drake
+
+Misc: 
+
+- Due to numerous positive votes, you can now see the admin that targeted someone.
+Ex: instead of (Someone) slapped you  
+You will see Fappy slapped you
+
 Click "View" on the top right to see the raw data so you see purely text.
