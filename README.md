@@ -37,4 +37,10 @@ Misc:
 Ex: instead of (Someone) slapped you  
 You will see Fappy slapped you
 
+
+5/20/2017:
+
+Weapons:
+- The Space and Time Manipulator has been nerfed. It now costs 2 credits and the duration for the slow-mo/fast-mo has been reduced from 10 seconds to 8 seconds.
+
 Click "View" on the top right to see the raw data so you see purely text.
