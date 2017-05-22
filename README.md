@@ -43,4 +43,15 @@ You will see Fappy slapped you
 Weapons:
 - The Space and Time Manipulator has been nerfed. It now costs 2 credits and the duration for the slow-mo/fast-mo has been reduced from 10 seconds to 8 seconds.
 
+5/22/2017:
+
+Weapons:
+- Added the Brain Parasite Gun
+
+Donators:
+- There is a new playermodel by the name of "Red"
+
+Misc:
+- I will be removing addons according to the results of this survey: https://goo.gl/forms/EyIc7NHsnTffRCnC3 Tomorrow.
+
 Click "View" on the top right to see the raw data so you see purely text.
