@@ -6,7 +6,7 @@ News for our gmod server
 
 - I ask everyone to vote on here. Look at Suggestions on Discord for more info: https://goo.gl/forms/EyIc7NHsnTffRCnC3
 
-05/16/2017:
+##**05/16/2017**
 6:00PM
 There will be a mini update tonight
 
@@ -15,7 +15,7 @@ This will include:
 - Possible buff to the AR-15
 - Slight HP nerf to the rolling mine
 
-05/17/2017:
+##**05/17/2017:**
 
 Weapons:
 - Slightlty nerfed the Vector Damage
@@ -26,7 +26,7 @@ Donators:
 
 
 
-5/19/2017:
+##**5/19/2017:**
 
 Donators:
 - Added Tim Drake
@@ -38,12 +38,12 @@ Ex: instead of (Someone) slapped you
 You will see Fappy slapped you
 
 
-5/20/2017:
+##**5/20/2017:**
 
 Weapons:
 - The Space and Time Manipulator has been nerfed. It now costs 2 credits and the duration for the slow-mo/fast-mo has been reduced from 10 seconds to 8 seconds.
 
-5/22/2017:
+##**5/22/2017:**
 
 Weapons:
 - Added the Brain Parasite Gun
@@ -54,4 +54,4 @@ Donators:
 Misc:
 - I will be removing addons according to the results of this survey: https://goo.gl/forms/EyIc7NHsnTffRCnC3 Tomorrow.
 
-Click "View" on the top right to see the raw data so you see purely text.
+#***Click "View" on the top right to see the raw data so you see purely text.***
