@@ -66,4 +66,14 @@ Weapons:
 
 These changes were from the survey everyone responded to.
 
+**5/26/2017**
+
+Weapons:
+- Gauss Rifle [T]
+
+Playermodels:
+- Artorias [Donator]
+- Evelynn [Donator]
+- Hank Hill [Anynone]
+
 ***Click "View" on the top right to see the raw data so you see purely text.***
