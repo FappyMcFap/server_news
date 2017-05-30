@@ -76,4 +76,10 @@ Playermodels:
 - Evelynn [Donator]
 - Hank Hill [Anynone]
 
+**5/30/2017**
+
+Weapons:
+- Added Prop Exploder
+- Added Detective Defib
+
 ***Click "View" on the top right to see the raw data so you see purely text.***
