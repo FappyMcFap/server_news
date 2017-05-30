@@ -81,5 +81,6 @@ Playermodels:
 Weapons:
 - Added Prop Exploder
 - Added Detective Defib
+- Dead Ringer was switched from slot 7 to 8
 
 ***Click "View" on the top right to see the raw data so you see purely text.***
